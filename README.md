@@ -6,11 +6,11 @@ This tool written in Python 3 transforms HAR (HTTP Archive) content from modern 
 
 ## Requirements
 
-Windows - So far my program's clipboard interface only with the Windows operating system. UNIX support will soon be integrated.
+**Windows** - So far my program's clipboard interface only with the Windows operating system. UNIX support will soon be integrated.
 
-Python 3?+ - May work with Python 2+ (haven't tested with anything less than Python 3.6)
+**Python 3?+** - May work with Python 2+ (haven't tested with anything less than Python 3.6)
 
-Google Chrome / Firefox / Internet Explorer 9 - These are the only mainstream browsers that support network request exports as HAR content.
+**Google Chrome / Firefox / Internet Explorer 9** - These are the only mainstream browsers that support network request exports as HAR content.
 
 ## Procedure
 
